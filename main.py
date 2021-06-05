@@ -2,6 +2,8 @@ import pygame
 import math
 import random
 
+#pygame, math, random
+
 
 pygame.init()
 
