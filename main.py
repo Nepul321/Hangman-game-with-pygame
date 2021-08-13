@@ -33,7 +33,7 @@ for i in range(7):
     images.append(image)
 
 hangman_status = 0
-words = ["DOG", "CAT", "GAMES","SKYPE", "GEOGRAPHY", "HISTORY", "DIAMOND", "RUBY", "HELLO", "NEPUL", "AMAZON", "MICROSOFT", "APPLE", "MACBOOK", "DESKTOP", "YOUTUBE", "WINDOWS", "BINAYA", "PANCHAL", "PINIDI", "POOJAN", "TESLA", "KOTHTHU", "BALLA"]
+words = ["DOG", "CAT", "GAMES","SKYPE", "GEOGRAPHY", "HISTORY", "DIAMOND", "RUBY", "HELLO", "NEPUL", "AMAZON", "MICROSOFT", "APPLE", "MACBOOK", "DESKTOP", "YOUTUBE", "WINDOWS", "TESLA"]
 word = random.choice(words)
 guessed = []
 
